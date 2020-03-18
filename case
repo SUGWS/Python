@@ -19,3 +19,4 @@ while guess != num:
  
 print("你总共猜了%d" %i + "次",end = '')
 print(",快和你朋友较量一下...")
+ 
